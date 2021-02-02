@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "microbundle --no-compress --no-sourcemap --format esm"
+  },
+  "dependencies": {
+    "microbundle": "^0.13.0"
+  }
+}
